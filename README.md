@@ -14,7 +14,6 @@ There are **two implementations**:
 - `basic_version/` → **Standard implementation** (Arduino loop-based).
 - `rtos_version/` → **Advanced RTOS implementation**.
 - `docs/` → **Documentation on sensors and motor control**.
-- `images/` → **Circuit wiring diagrams**.
 
 ## 🛠 Setup & Installation
 1. Install **Arduino IDE**.
